@@ -1,0 +1,269 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'temporizador:temp|cont[21]'
+Slack : -150.342
+TNS   : -153345.868
+
+Type  : Slow 1200mV 85C Model Setup 'clkAUTO'
+Slack : -147.737
+TNS   : -176.865
+
+Type  : Slow 1200mV 85C Model Setup 'EntradaSaida:ES|ant[0]'
+Slack : -132.154
+TNS   : -921.559
+
+Type  : Slow 1200mV 85C Model Setup 'EntradaSaida:ES|ant[10]'
+Slack : -130.784
+TNS   : -3337.544
+
+Type  : Slow 1200mV 85C Model Setup 'ContadordePrograma:PC|adressOut[1]'
+Slack : -24.115
+TNS   : -166.381
+
+Type  : Slow 1200mV 85C Model Setup 'ContadordePrograma:PC|adressOut[2]'
+Slack : -23.712
+TNS   : -284.612
+
+Type  : Slow 1200mV 85C Model Hold 'EntradaSaida:ES|ant[10]'
+Slack : -1.408
+TNS   : -7.937
+
+Type  : Slow 1200mV 85C Model Hold 'clkAUTO'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ContadordePrograma:PC|adressOut[2]'
+Slack : 0.838
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'temporizador:temp|cont[21]'
+Slack : 0.904
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ContadordePrograma:PC|adressOut[1]'
+Slack : 2.628
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'EntradaSaida:ES|ant[0]'
+Slack : 37.391
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'EntradaSaida:ES|ant[10]'
+Slack : -52.492
+TNS   : -901.703
+
+Type  : Slow 1200mV 85C Model Recovery 'ContadordePrograma:PC|adressOut[2]'
+Slack : -6.730
+TNS   : -44.615
+
+Type  : Slow 1200mV 85C Model Removal 'EntradaSaida:ES|ant[10]'
+Slack : -5.932
+TNS   : -40.577
+
+Type  : Slow 1200mV 85C Model Removal 'ContadordePrograma:PC|adressOut[2]'
+Slack : 1.083
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'EntradaSaida:ES|ant[10]'
+Slack : -35.534
+TNS   : -178890.120
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clkAUTO'
+Slack : -3.000
+TNS   : -36.656
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ContadordePrograma:PC|adressOut[2]'
+Slack : -2.803
+TNS   : -265.681
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'temporizador:temp|cont[21]'
+Slack : -2.693
+TNS   : -1377.889
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ContadordePrograma:PC|adressOut[1]'
+Slack : -1.418
+TNS   : -66.979
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'EntradaSaida:ES|ant[0]'
+Slack : -1.000
+TNS   : -57.647
+
+Type  : Slow 1200mV 0C Model Setup 'temporizador:temp|cont[21]'
+Slack : -135.985
+TNS   : -138745.283
+
+Type  : Slow 1200mV 0C Model Setup 'clkAUTO'
+Slack : -133.653
+TNS   : -157.634
+
+Type  : Slow 1200mV 0C Model Setup 'EntradaSaida:ES|ant[0]'
+Slack : -121.259
+TNS   : -845.753
+
+Type  : Slow 1200mV 0C Model Setup 'EntradaSaida:ES|ant[10]'
+Slack : -119.957
+TNS   : -3057.211
+
+Type  : Slow 1200mV 0C Model Setup 'ContadordePrograma:PC|adressOut[1]'
+Slack : -22.079
+TNS   : -152.204
+
+Type  : Slow 1200mV 0C Model Setup 'ContadordePrograma:PC|adressOut[2]'
+Slack : -21.749
+TNS   : -259.402
+
+Type  : Slow 1200mV 0C Model Hold 'EntradaSaida:ES|ant[10]'
+Slack : -1.370
+TNS   : -7.665
+
+Type  : Slow 1200mV 0C Model Hold 'clkAUTO'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'temporizador:temp|cont[21]'
+Slack : 0.780
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ContadordePrograma:PC|adressOut[2]'
+Slack : 0.869
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ContadordePrograma:PC|adressOut[1]'
+Slack : 2.572
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'EntradaSaida:ES|ant[0]'
+Slack : 33.995
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'EntradaSaida:ES|ant[10]'
+Slack : -48.382
+TNS   : -844.276
+
+Type  : Slow 1200mV 0C Model Recovery 'ContadordePrograma:PC|adressOut[2]'
+Slack : -6.258
+TNS   : -41.303
+
+Type  : Slow 1200mV 0C Model Removal 'EntradaSaida:ES|ant[10]'
+Slack : -4.954
+TNS   : -33.517
+
+Type  : Slow 1200mV 0C Model Removal 'ContadordePrograma:PC|adressOut[2]'
+Slack : 1.044
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'EntradaSaida:ES|ant[10]'
+Slack : -32.092
+TNS   : -160859.838
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clkAUTO'
+Slack : -3.000
+TNS   : -36.568
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'temporizador:temp|cont[21]'
+Slack : -2.649
+TNS   : -1377.757
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ContadordePrograma:PC|adressOut[2]'
+Slack : -2.475
+TNS   : -230.566
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ContadordePrograma:PC|adressOut[1]'
+Slack : -1.281
+TNS   : -57.042
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'EntradaSaida:ES|ant[0]'
+Slack : -0.987
+TNS   : -49.006
+
+Type  : Fast 1200mV 0C Model Setup 'temporizador:temp|cont[21]'
+Slack : -75.000
+TNS   : -76396.647
+
+Type  : Fast 1200mV 0C Model Setup 'clkAUTO'
+Slack : -72.996
+TNS   : -77.183
+
+Type  : Fast 1200mV 0C Model Setup 'EntradaSaida:ES|ant[0]'
+Slack : -66.953
+TNS   : -467.274
+
+Type  : Fast 1200mV 0C Model Setup 'EntradaSaida:ES|ant[10]'
+Slack : -66.392
+TNS   : -1688.314
+
+Type  : Fast 1200mV 0C Model Setup 'ContadordePrograma:PC|adressOut[1]'
+Slack : -11.754
+TNS   : -80.274
+
+Type  : Fast 1200mV 0C Model Setup 'ContadordePrograma:PC|adressOut[2]'
+Slack : -11.591
+TNS   : -133.485
+
+Type  : Fast 1200mV 0C Model Hold 'EntradaSaida:ES|ant[10]'
+Slack : -0.258
+TNS   : -0.832
+
+Type  : Fast 1200mV 0C Model Hold 'clkAUTO'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'temporizador:temp|cont[21]'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ContadordePrograma:PC|adressOut[2]'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ContadordePrograma:PC|adressOut[1]'
+Slack : 1.306
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'EntradaSaida:ES|ant[0]'
+Slack : 18.657
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'EntradaSaida:ES|ant[10]'
+Slack : -27.525
+TNS   : -471.836
+
+Type  : Fast 1200mV 0C Model Recovery 'ContadordePrograma:PC|adressOut[2]'
+Slack : -3.150
+TNS   : -20.798
+
+Type  : Fast 1200mV 0C Model Removal 'EntradaSaida:ES|ant[10]'
+Slack : -2.166
+TNS   : -14.571
+
+Type  : Fast 1200mV 0C Model Removal 'ContadordePrograma:PC|adressOut[2]'
+Slack : 0.897
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'EntradaSaida:ES|ant[10]'
+Slack : -17.056
+TNS   : -83615.958
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clkAUTO'
+Slack : -3.000
+TNS   : -28.550
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ContadordePrograma:PC|adressOut[2]'
+Slack : -1.113
+TNS   : -91.582
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'temporizador:temp|cont[21]'
+Slack : -1.000
+TNS   : -1069.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ContadordePrograma:PC|adressOut[1]'
+Slack : -0.455
+TNS   : -16.258
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'EntradaSaida:ES|ant[0]'
+Slack : -0.357
+TNS   : -9.890
+
+------------------------------------------------------------

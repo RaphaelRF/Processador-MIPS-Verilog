@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home-local/aluno/Documentos/Teste2/simulation/qsim
+vhard_block
+!s110 1561498557
+!i10b 1
+!s100 aKX10L=D`KFOFYcn<9GaV0
+I;flmIBD5eMf_E9aQh5NkX2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dd:/Users/Raphael/Desktop/LAB COMP/Teste2/simulation/qsim
+w1561498552
+Z2 8UnidadeProcessamento.vo
+Z3 FUnidadeProcessamento.vo
+L0 239417
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1561498554.000000
+Z5 !s107 UnidadeProcessamento.vo|
+Z6 !s90 -work|work|UnidadeProcessamento.vo|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vUnidadeProcessamento
+!s110 1561559778
+!i10b 1
+!s100 55bnh1ffLEzPlSa=oz[WY1
+I97NzzEXTjZgTJm6^cE[Jk2
+R0
+R1
+w1561559771
+R2
+R3
+L0 31
+R4
+r1
+!s85 0
+31
+!s108 1561559773.000000
+R5
+R6
+!i113 1
+R7
+R8
+n@unidade@processamento
+vUnidadeProcessamento_vlg_vec_tst
+!s110 1561559779
+!i10b 1
+!s100 YMATnWaH?In2oa:`f3TOz2
+I9Agz9Hf5o]_1Tcd[MScag3
+R0
+R1
+w1561559762
+8Waveform99.vwf.vt
+FWaveform99.vwf.vt
+L0 29
+R4
+r1
+!s85 0
+31
+!s108 1561559778.000000
+!s107 Waveform99.vwf.vt|
+!s90 -work|work|Waveform99.vwf.vt|
+!i113 1
+R7
+R8
+n@unidade@processamento_vlg_vec_tst

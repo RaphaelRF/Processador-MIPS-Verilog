@@ -1,0 +1,5 @@
+Info (10281): Verilog HDL Declaration information at Teste.v(16): object "mPC" differs only in case from object "MPC" in the same scope File: d:/Users/Raphael/Desktop/LAB COMP/Teste2/Teste.v Line: 16
+Info (10281): Verilog HDL Declaration information at Teste.v(18): object "mJr" differs only in case from object "MJR" in the same scope File: d:/Users/Raphael/Desktop/LAB COMP/Teste2/Teste.v Line: 18
+Info (10281): Verilog HDL Declaration information at UnidadeProcessamento.v(19): object "mPC" differs only in case from object "MPC" in the same scope File: d:/Users/Raphael/Desktop/LAB COMP/Teste2/UnidadeProcessamento.v Line: 19
+Info (10281): Verilog HDL Declaration information at UnidadeProcessamento.v(21): object "mJr" differs only in case from object "MJR" in the same scope File: d:/Users/Raphael/Desktop/LAB COMP/Teste2/UnidadeProcessamento.v Line: 21
+Warning (10268): Verilog HDL information at MemInstrucoes.v(12): always construct contains both blocking and non-blocking assignments File: d:/Users/Raphael/Desktop/LAB COMP/Teste2/MemInstrucoes.v Line: 12
